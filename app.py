@@ -1,7 +1,7 @@
 from collections import namedtuple
 from random import choice
-
-from flask import Flask, jsonify
+from flask import Flask, jsonify, url_for, request
+from ecommerce import *
 
 Quote = namedtuple("Quote", ("text", "author"))
 
@@ -24,4 +24,14 @@ def get_random_quote():
 
 @app.route("/hello", methods=["GET"])
 def hello():
-    return "hello dream"
+   return "hello dream"
+
+@app.route('/summary/<filter>.<format>', methods=['GET'])
+def summary(filter, format):
+    if request.method == 'GET':
+        res = "."
+        if format == "json":
+            res = get_summary_json(filter)
+        elif format == "html":
+            res = get_summary_html(filter)
+        return res

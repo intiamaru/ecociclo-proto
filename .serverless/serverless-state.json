@@ -161,7 +161,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/proto/dev/1594909463620-2020-07-16T14:24:23.620Z/proto.zip"
+                "S3Key": "serverless/proto/dev/1594910504339-2020-07-16T14:41:44.339Z/proto.zip"
               },
               "FunctionName": "proto-dev-app",
               "Handler": "wsgi_handler.handler",
@@ -179,14 +179,14 @@
               "AppLogGroup"
             ]
           },
-          "AppLambdaVersionzY9mlKI0M9L9BELrjtujcYslGwYXUh50Bdv4aNNeM": {
+          "AppLambdaVersionUPsVHvNnPcKNCmH2H18SmouSy7iebk90Y19CdsA6bI": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "AppLambdaFunction"
               },
-              "CodeSha256": "z2yt5lmtuluHOOL+b191r2Tc2Uyz92n4TEMW6upUKLo="
+              "CodeSha256": "QaIKgujlpwgb9ExuigQyOSnVSu7wSATLtVg+kcnHSW8="
             }
           },
           "ApiGatewayRestApi": {
@@ -305,7 +305,7 @@
               "MethodResponses": []
             }
           },
-          "ApiGatewayDeployment1594909451890": {
+          "ApiGatewayDeployment1594910448799": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -365,7 +365,7 @@
           "AppLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "AppLambdaVersionzY9mlKI0M9L9BELrjtujcYslGwYXUh50Bdv4aNNeM"
+              "Ref": "AppLambdaVersionUPsVHvNnPcKNCmH2H18SmouSy7iebk90Y19CdsA6bI"
             }
           },
           "ServiceEndpoint": {
@@ -490,7 +490,7 @@
         "timeout": 6,
         "runtime": "python3.6",
         "vpc": {},
-        "versionLogicalId": "AppLambdaVersionzY9mlKI0M9L9BELrjtujcYslGwYXUh50Bdv4aNNeM"
+        "versionLogicalId": "AppLambdaVersionUPsVHvNnPcKNCmH2H18SmouSy7iebk90Y19CdsA6bI"
       }
     },
     "serviceFilename": "serverless.yml",
@@ -499,7 +499,7 @@
     "artifact": "/root/code/ecociclo-proto/.serverless/proto.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/proto/dev/1594909463620-2020-07-16T14:24:23.620Z",
+    "artifactDirectoryName": "serverless/proto/dev/1594910504339-2020-07-16T14:41:44.339Z",
     "artifact": "proto.zip"
   }
 }
