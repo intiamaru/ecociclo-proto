@@ -1,0 +1,73 @@
+,order,customer,sku,title,quantity,price,cost,line_price,line_cost,vendor
+0,#1170,Jorge Boneu,i82,Café Warmi (250g) [Impacto Social],1,15.00,12.50,15.0,12.5,Warmi
+1,#1169,Maria Isabel  Salvatierra,i84,Chocolate en Polvo Warmi (250g) [Impacto Social],2,15.00,12.50,30.0,25.0,Warmi
+2,#1169,Maria Isabel  Salvatierra,i82,Café Warmi (250g) [Impacto Social],3,15.00,12.50,45.0,37.5,Warmi
+3,#1168,patricia obregon,i14,Vainita Bebe - Kilo [Orgánico],1,8.40,7.00,8.4,7.0,Agrofili frutas y verduras orgánicas
+4,#1168,patricia obregon,i21,Cebolla Blanca - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+5,#1168,patricia obregon,i39,Pimientos - Medio Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+6,#1168,patricia obregon,i12,Piña - Unidad [Orgánico],1,7.20,6.00,7.2,6.0,Agrofili frutas y verduras orgánicas
+7,#1168,patricia obregon,i29,Platano Seda - MANO [Orgánico],1,3.60,3.00,3.6,3.0,Agrofili frutas y verduras orgánicas
+8,#1168,patricia obregon,i94,Promoción - Espinaca de Tallo - Kilo [Orgánico],1,6.00,5.00,6.0,5.0,Agrofili frutas y verduras orgánicas
+9,#1168,patricia obregon,i26,Pepino - Unidad [Orgánico],4,1.80,1.50,7.2,6.0,Agrofili frutas y verduras orgánicas
+10,#1168,patricia obregon,i20,Cebolla Roja - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+11,#1168,patricia obregon,i35,Brocoli - Kilo [Orgánico],1,12.00,10.00,12.0,10.0,Agrofili frutas y verduras orgánicas
+12,#1168,patricia obregon,i1,Zapallo Macre - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+13,#1168,patricia obregon,i27,Zanahoria - Kilo [Orgánico],2,4.80,4.00,9.6,8.0,Agrofili frutas y verduras orgánicas
+14,#1168,patricia obregon,i2,Tomate Redondo - Kilo [Orgánico],2,7.20,6.00,14.4,12.0,Agrofili frutas y verduras orgánicas
+15,#1168,patricia obregon,i18,Papa Amarilla - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+16,#1168,patricia obregon,i24,Naranja - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+17,#1168,patricia obregon,i25,Palta - Kilo [Orgánico],1,9.00,7.50,9.0,7.5,Agrofili frutas y verduras orgánicas
+18,#1168,patricia obregon,i66,Miel de abeja 100% puro de paltos de Cocachacra (Kilo),1,30.20,26.00,30.2,26.0,El Champal
+19,#1168,patricia obregon,i85,Huevos del Valle de Gallinas Camperas [Agroecológico],5,12.00,10.00,60.0,50.0,Granja Campera del Valle
+20,#1168,patricia obregon,i87,Granola casero,1,19.00,15.00,19.0,15.0,La Casa de los Titiriteros
+21,#1168,patricia obregon,i40,Hojuelas de avena 500gr.,1,8.40,7.00,8.4,7.0,Valles de Vida
+22,#1168,patricia obregon,i22,Fresa - Bandeja Medio Kilo [Orgánico],1,8.40,7.00,8.4,7.0,Agrofili frutas y verduras orgánicas
+23,#1168,patricia obregon,i55,Choclo (unidad),6,2.40,2.00,14.399999999999999,12.0,Don Nico - Carmen / Edith
+24,#1168,patricia obregon,i10,Camote - Kilo [Orgánico],1,3.40,2.80,3.4,2.8,Agrofili frutas y verduras orgánicas
+25,#1168,patricia obregon,i50,Arandanos 500gr [Orgánico],1,15.00,12.50,15.0,12.5,Agrofili frutas y verduras orgánicas
+26,#1168,patricia obregon,i64,Aceite de Coco (100g),1,15.00,12.50,15.0,12.5,Naturally Divine - Pin / Patricia
+27,#1166,María Inés Castro Hurtado,i74,Hinojo [Orgánico],1,1.20,1.00,1.2,1.0,Agrofili frutas y verduras orgánicas
+28,#1166,María Inés Castro Hurtado,i73,Menta [Orgánico],1,1.20,1.00,1.2,1.0,Agrofili frutas y verduras orgánicas
+29,#1166,María Inés Castro Hurtado,i23,Manzana Delicia - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+30,#1166,María Inés Castro Hurtado,i14,Vainita Bebe - Kilo [Orgánico],1,8.40,7.00,8.4,7.0,Agrofili frutas y verduras orgánicas
+31,#1166,María Inés Castro Hurtado,i56,Col morada (kg) [Orgánico],1,7.20,6.00,7.2,6.0,Agrofili frutas y verduras orgánicas
+32,#1166,María Inés Castro Hurtado,i16,Berenjena - Unidad [Orgánico],1,1.80,1.50,1.8,1.5,Agrofili frutas y verduras orgánicas
+33,#1166,María Inés Castro Hurtado,i48,Espinaca Bebe - Unidad [Orgánico],1,2.40,2.00,2.4,2.0,Agrofili frutas y verduras orgánicas
+34,#1166,María Inés Castro Hurtado,i20,Cebolla Roja - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+35,#1166,María Inés Castro Hurtado,i18,Papa Amarilla - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+36,#1166,María Inés Castro Hurtado,i19,Papa Blanca - Kilo [Orgánico],1,3.60,3.00,3.6,3.0,Agrofili frutas y verduras orgánicas
+37,#1166,María Inés Castro Hurtado,i9,Culantro - Atado [Orgánico],2,1.00,0.80,2.0,1.6,Agrofili frutas y verduras orgánicas
+38,#1166,María Inés Castro Hurtado,i39,Pimientos - Medio Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+39,#1166,María Inés Castro Hurtado,i1,Zapallo Macre - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+40,#1166,María Inés Castro Hurtado,i25,Palta - Kilo [Orgánico],1,9.00,7.50,9.0,7.5,Agrofili frutas y verduras orgánicas
+41,#1166,María Inés Castro Hurtado,i12,Piña - Unidad [Orgánico],1,7.20,6.00,7.2,6.0,Agrofili frutas y verduras orgánicas
+42,#1166,María Inés Castro Hurtado,i29,Platano Seda - MANO [Orgánico],2,3.60,3.00,7.2,6.0,Agrofili frutas y verduras orgánicas
+43,#1166,María Inés Castro Hurtado,i50,Arandanos 500gr [Orgánico],2,15.00,12.50,30.0,25.0,Agrofili frutas y verduras orgánicas
+44,#1166,María Inés Castro Hurtado,i27,Zanahoria - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+45,#1166,María Inés Castro Hurtado,i51,Beterraga - Atado [Orgánico],1,3.00,2.50,3.0,2.5,Agrofili frutas y verduras orgánicas
+46,#1166,María Inés Castro Hurtado,i40,Hojuelas de avena 500gr.,2,8.40,7.00,16.8,14.0,Valles de Vida
+47,#1166,María Inés Castro Hurtado,i52,Pan Integral orgánico El Champal,2,13.00,10.00,26.0,20.0,El Champal
+48,#1165,Rosaura Augusto,i25,Palta - Kilo [Orgánico],2,9.00,7.50,18.0,15.0,Agrofili frutas y verduras orgánicas
+49,#1165,Rosaura Augusto,i2,Tomate Redondo - Kilo [Orgánico],2,7.20,6.00,14.4,12.0,Agrofili frutas y verduras orgánicas
+50,#1165,Rosaura Augusto,i31,Mantequilla Orgánica Feliz - Unidad,1,12.80,10.59,12.8,10.59,Vacas Felices
+51,#1165,Rosaura Augusto,i85,Huevos del Valle de Gallinas Camperas [Agroecológico],1,12.00,10.00,12.0,10.0,Granja Campera del Valle
+52,#1165,Rosaura Augusto,i40,Hojuelas de avena 500gr.,1,8.40,7.00,8.4,7.0,Valles de Vida
+53,#1165,Rosaura Augusto,i48,Espinaca Bebe - Unidad [Orgánico],1,2.40,2.00,2.4,2.0,Agrofili frutas y verduras orgánicas
+54,#1165,Rosaura Augusto,i84,Chocolate en Polvo Warmi (250g) [Impacto Social],1,15.00,12.50,15.0,12.5,Warmi
+55,#1165,Rosaura Augusto,i6,Chirimoya - Kilo [Orgánico],1,6.00,5.00,6.0,5.0,Agrofili frutas y verduras orgánicas
+56,#1165,Rosaura Augusto,i54,Apio (unidad) [Orgánico],1,1.80,1.50,1.8,1.5,Agrofili frutas y verduras orgánicas
+57,#1165,Rosaura Augusto,i51,Beterraga - Atado [Orgánico],2,3.00,2.50,6.0,5.0,Agrofili frutas y verduras orgánicas
+58,#1165,Rosaura Augusto,i53,Ajo - Medio Kilo [Orgánico],1,12.00,10.00,12.0,10.0,Agrofili frutas y verduras orgánicas
+59,#1165,Rosaura Augusto,i92,Aji salsa,1,5.50,4.17,5.5,4.17,La Casa de los Titiriteros
+60,#1164,Jorge Boneu,i52,Pan Integral orgánico El Champal,1,13.00,10.00,13.0,10.0,El Champal
+61,#1164,Jorge Boneu,i50,Arandanos 500gr [Orgánico],1,15.00,12.50,15.0,12.5,Agrofili frutas y verduras orgánicas
+62,#1164,Jorge Boneu,i68,Leche Orgánica Feliz (Botella vidirio 1 Litro),1,9.50,7.92,9.5,7.92,Vacas Felices
+63,#1164,Jorge Boneu,i87,Granola casero,1,19.00,15.00,19.0,15.0,La Casa de los Titiriteros
+64,#1164,Jorge Boneu,i20,Cebolla Roja - Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+65,#1158,Nicolás Kraemer,i54,Apio (unidad) [Orgánico],1,1.80,1.50,1.8,1.5,Agrofili frutas y verduras orgánicas
+66,#1158,Nicolás Kraemer,i29,Platano Seda - MANO [Orgánico],1,3.60,3.00,3.6,3.0,Agrofili frutas y verduras orgánicas
+67,#1158,Nicolás Kraemer,i39,Pimientos - Medio Kilo [Orgánico],1,4.20,3.50,4.2,3.5,Agrofili frutas y verduras orgánicas
+68,#1158,Nicolás Kraemer,i27,Zanahoria - Kilo [Orgánico],1,4.80,4.00,4.8,4.0,Agrofili frutas y verduras orgánicas
+69,#1158,Nicolás Kraemer,i2,Tomate Redondo - Kilo [Orgánico],1,7.20,6.00,7.2,6.0,Agrofili frutas y verduras orgánicas
+70,#1158,Nicolás Kraemer,i73,Menta [Orgánico],1,1.20,1.00,1.2,1.0,Agrofili frutas y verduras orgánicas
+71,#1158,Nicolás Kraemer,i85,Huevos del Valle de Gallinas Camperas [Agroecológico],1,12.00,10.00,12.0,10.0,Warmi

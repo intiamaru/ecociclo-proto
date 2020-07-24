@@ -11,7 +11,9 @@ def main():
     orders = get_orders()
     #print(json.dumps(orders[0]))
     #
-    filter = "ciclo11"
+
+    #test for local execution
+    filter = "ciclo12"
     print("Ordenes en el filtro:",filter)
     print_orders(orders,tag=filter)
 
@@ -21,9 +23,13 @@ def main():
 
     print("Retrieving summary", filter)
     df = get_summary(tag=filter)
+    print(df)
     df.to_csv('summary_{}.csv'.format(filter))
-    df.to_json(orient='index')
+    jsondf = df.to_json(orient='index')
 
+    #print(jsondf)
+    dataset = json.loads(jsondf)
+    print(json.dumps(dataset, sort_keys=True, indent=4))
 
 def get_summary_json(filter):
     print("Retrieving summary", filter)
@@ -134,7 +140,7 @@ def print_order(order):
         #print("{} {} S/.{}".format( item["title"], item["quantity"], item["price"]) )
         item_dic ={}
         item_dic["title"] = item["title"]
-        item_dic["quantity"] = item["quantity"]
+        item_dic["quantity"] = "({})".format(item["quantity"])
         #item_dic["price"] = item["price"]
         items_list.append(item_dic)
 
@@ -212,10 +218,8 @@ def get_summary(tag=None):
             item_dic["tags"] = order["tags"]
             dataset.append(item_dic)
 
-    print(json.dumps(dataset))
     df = pd.DataFrame(dataset)
     df = df[["order", "customer", "sku", "title", "quantity", "price", "cost", "line_price", "line_cost", "vendor"]]
-    print(df)
     return df
 
 

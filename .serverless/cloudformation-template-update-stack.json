@@ -146,11 +146,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-<<<<<<< HEAD
-          "S3Key": "serverless/proto/dev/1594910504339-2020-07-16T14:41:44.339Z/proto.zip"
-=======
-          "S3Key": "serverless/proto/dev/1594909463620-2020-07-16T14:24:23.620Z/proto.zip"
->>>>>>> d04365bf05b43932929b2086362ef4f13572f1b7
+          "S3Key": "serverless/proto/dev/1595079937411-2020-07-18T13:45:37.411Z/proto.zip"
         },
         "FunctionName": "proto-dev-app",
         "Handler": "wsgi_handler.handler",
@@ -168,22 +164,14 @@
         "AppLogGroup"
       ]
     },
-<<<<<<< HEAD
-    "AppLambdaVersionUPsVHvNnPcKNCmH2H18SmouSy7iebk90Y19CdsA6bI": {
-=======
-    "AppLambdaVersionzY9mlKI0M9L9BELrjtujcYslGwYXUh50Bdv4aNNeM": {
->>>>>>> d04365bf05b43932929b2086362ef4f13572f1b7
+    "AppLambdaVersionf7nxBK90t7UrzPPE8p4sdPmbbLtZyzQtqUuIlvGoM": {
       "Type": "AWS::Lambda::Version",
       "DeletionPolicy": "Retain",
       "Properties": {
         "FunctionName": {
           "Ref": "AppLambdaFunction"
         },
-<<<<<<< HEAD
-        "CodeSha256": "QaIKgujlpwgb9ExuigQyOSnVSu7wSATLtVg+kcnHSW8="
-=======
-        "CodeSha256": "z2yt5lmtuluHOOL+b191r2Tc2Uyz92n4TEMW6upUKLo="
->>>>>>> d04365bf05b43932929b2086362ef4f13572f1b7
+        "CodeSha256": "5fwytQVO7dCW890iADDlBxTzvO87yrpg9r/BuIxMQ7A="
       }
     },
     "ApiGatewayRestApi": {
@@ -302,11 +290,7 @@
         "MethodResponses": []
       }
     },
-<<<<<<< HEAD
-    "ApiGatewayDeployment1594910448799": {
-=======
-    "ApiGatewayDeployment1594909451890": {
->>>>>>> d04365bf05b43932929b2086362ef4f13572f1b7
+    "ApiGatewayDeployment1595079892833": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
@@ -366,11 +350,7 @@
     "AppLambdaFunctionQualifiedArn": {
       "Description": "Current Lambda function version",
       "Value": {
-<<<<<<< HEAD
-        "Ref": "AppLambdaVersionUPsVHvNnPcKNCmH2H18SmouSy7iebk90Y19CdsA6bI"
-=======
-        "Ref": "AppLambdaVersionzY9mlKI0M9L9BELrjtujcYslGwYXUh50Bdv4aNNeM"
->>>>>>> d04365bf05b43932929b2086362ef4f13572f1b7
+        "Ref": "AppLambdaVersionf7nxBK90t7UrzPPE8p4sdPmbbLtZyzQtqUuIlvGoM"
       }
     },
     "ServiceEndpoint": {
